@@ -50,6 +50,7 @@ import shutil
 
 <a name="DataCollection"></a>
 ## Data Collection
+[Click here for link to code.](https://github.com/kiseki1107/College-Scorecard-Analysis/blob/master/DataCollection_Cleansing.ipynb)
 The actual open-source data can be found on the Department of Education's API documentation page [here](https://collegescorecard.ed.gov/data/documentation/) where users and developers alike can register for their own API key [here](https://api.data.gov/signup/). The API documentation page provides a step-by-step guide on how to manipulate their Web API link format as well as a data dictionary reference in the form of an excel spreadsheet.
 
 Under the "Categories of Data" title in the API documentation page, this section lists all of the fields within the dataset. To look at what makes a good school good, the metrics chosen for this project are:
@@ -82,6 +83,7 @@ It is important to note that the requested API call will return a JSON format ur
 
 <a name="DataCleaning"></a>
 ## Data Cleaning
+[Click here for link to code.](https://github.com/kiseki1107/College-Scorecard-Analysis/blob/master/DataCollection_Cleansing.ipynb)
 After collecting all the necessary data into a master python dataFrame, further data cleaning was performed to update and format the dataFrame to be easily accessible and user-friendly.
 
 After cleaning up the master dataFrame, the master dataFrame was then split into four separate sub-dataFrames based on each individual field metrics to be compared against student earnings as that was the goal. These sub-dataFrames were further cleaned up to remove rows with null values and to perform some data aggregations.
@@ -117,6 +119,7 @@ admission_min = clean_school_ownership_df["Admission Rate (%)"].min()
 
 <a name="DataVisualization"></a>
 ## Data Visualization  and Conclusion
+[Click her for link to code.](https://github.com/kiseki1107/College-Scorecard-Analysis/blob/master/DataAnalyzation.ipynb)
 <a name="SchoolOwnershipAndAdmissionRates"></a>
 ### School Ownership and Admission Rates
 ![School ownership pie](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Analysis/master/Resources/Plots/Ownership_Admission/SchoolOwnership_Counts_Pie.png)
@@ -164,4 +167,4 @@ Both scatter plots compare school full-time faculty rate and faculty salary agai
 
 <a name="PresentationSlides"></a>
 ## Further Notes
-More descriptive and visual information can be found in the presentation slides provided [here](
+More descriptive and visual information can be found in the presentation slides provided [here](https://github.com/kiseki1107/College-Scorecard-Analysis/blob/master/College-Scorecard-Summary-Presentation.pdf)
