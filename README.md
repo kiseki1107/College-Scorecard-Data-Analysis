@@ -120,15 +120,15 @@ admission_min = clean_school_ownership_df["Admission Rate (%)"].min()
 ## Data Visualization  and Conclusion
 <a name="SchoolOwnershipAndAdmissionRates"></a>
 ### School Ownership and Admission Rates
-![School ownership pie](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Data-Analysis/master/Project1_college_scorecard/Resources/Plots/Ownership_Admission/SchoolOwnership_Counts_Pie.png)
+![School ownership pie](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Analysis/master/Resources/Plots/Ownership_Admission/SchoolOwnership_Counts_Pie.png)
 
 Count of all existing, 4-year, bachelor-granting (undergraduate) schools by school ownership.
 
-![Earnings v school ownership box](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Data-Analysis/master/Project1_college_scorecard/Resources/Plots/Ownership_Admission/SchoolOwnership_MeanEarnings_Comparison_Box.png)
+![Earnings v school ownership box](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Analysis/master/Resources/Plots/Ownership_Admission/SchoolOwnership_MeanEarnings_Comparison_Box.png)
 
 Private for-profit schools have a left-skewed distribution (higher concentration of schools from 50-75% of interquartile range (IQR or range of the box)). There are more students earning more than students earning less, but there is a noticeable equilibration of student earnings at 10 years after entry. From 6 years to 10 years after entry, the box-and-whiskers then to go towards similar ranges and distributions.
 
-![Admission bar](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Data-Analysis/master/Project1_college_scorecard/Resources/Plots/Ownership_Admission/Admission_MeanEarnings_Comparison_Bar.png)
+![Admission bar](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Analysis/master/Resources/Plots/Ownership_Admission/Admission_MeanEarnings_Comparison_Bar.png)
 
 By comparing admission rates (%) against mean earnings($), the more difficult it is to get accepted into certain colleges, the more likely the students will make higher earnings. These students in tough schools are also more likely to make the greatest increase in earnings from 6 years to 10 years after entry. From 6 years to 10 years after entry, students from all three school ownerships tend toward similar ranges of mean earnings.
 
@@ -136,30 +136,30 @@ There is a greater increase in earnings from private non-profit and public organ
 
 <a name="SchoolSelectiveness"></a>
 ### School Selectiveness
-![Earnings v SAT bar](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Data-Analysis/master/Project1_college_scorecard/Resources/Plots/Selectiveness/Mean_Earnings_vs_Avg_Overall_SAT_Range.png)
-![Earnings v SAT scatter](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Data-Analysis/master/Project1_college_scorecard/Resources/Plots/Selectiveness/Mean_Earnings_10_yrs_vs_Avg_Overall_SAT_Scores.png)
+![Earnings v SAT bar](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Analysis/master/Resources/Plots/Selectiveness/Mean_Earnings_vs_Avg_Overall_SAT_Range.png)
+![Earnings v SAT scatter](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Analysis/master/Resources/Plots/Selectiveness/Mean_Earnings_10_yrs_vs_Avg_Overall_SAT_Scores.png)
 
 The average SAT score versus annual mean earnings analysis indicates that the graduates of the most selective colleges tend to earn more, the trend is more apparent for the mean earnings (10 years after entry). The scatter plot and the corresponding trendline indicates that average SAT scores has a positive correlation with mean earnings (10 years after entry) although the relationship seems weak for colleges with “average SAT scores” that are less than 1200.
 
-![Completion v SAT scatter](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Data-Analysis/master/Project1_college_scorecard/Resources/Plots/Selectiveness/150%25_Completion_rate_at_4_yrs_vs_Avg_Overall_SAT_Scores.png)
+![Completion v SAT scatter](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Analysis/master/Resources/Plots/Selectiveness/150%25_Completion_rate_at_4_yrs_vs_Avg_Overall_SAT_Scores.png)
 
 The scatter plot and the corresponding trendline indicates that average SAT scores has a positive correlation with completion rate, indicating that the most selective colleges tend to have a higher student completion rate compared to the rest of colleges. It is noteworthy that less than 15% of colleges have average SAT score above 1200 and only ~3% of them above 1400 being the most selective schools, and majority of colleges ~85% have average SAT scores that range between 800-1200.
 
-![Attendance cost v SAT scatter](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Data-Analysis/master/Project1_college_scorecard/Resources/Plots/Selectiveness/Attendance%20Cost%20per%20Academic%20Year%20Vs.%20Average%20Overall%20SAT%20Scores.png)
+![Attendance cost v SAT scatter](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Analysis/master/Resources/Plots/Selectiveness/Attendance%20Cost%20per%20Academic%20Year%20Vs.%20Average%20Overall%20SAT%20Scores.png)
 
 The scatter plot and the corresponding trendline indicates that attendance cost per academic year does not have a strong relationship with  average SAT scoress, as the public institutions tend to cost much less than the private institutions regardless of their selectiveness. However, the plot also indicates that majority of the most selective colleges (average SAT score > 1400) tend to cost significantly more.
 
 <a name="StudentRetentionAndCompletionRates"></a>
 ### Student Retention and Completion Rates
-![Earnings v retention bar](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Data-Analysis/master/Project1_college_scorecard/Resources/Plots/Completion_Retention/RetentionRate_vs_MeanEarnings_barplot.png)
-![Earnings v completion bar](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Data-Analysis/master/Project1_college_scorecard/Resources/Plots/Completion_Retention/CompletionRate_vs_MeanEarnings_barplot.png)
+![Earnings v retention bar](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Analysis/master/Resources/Plots/Completion_Retention/RetentionRate_vs_MeanEarnings_barplot.png)
+![Earnings v completion bar](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Analysis/master/Resources/Plots/Completion_Retention/CompletionRate_vs_MeanEarnings_barplot.png)
 
 The retention rate is the rate of students returning to the school each year of a 4-year bachelor degree program while the completion rate is counting 4-year programs completed within 6 years. 90-100% range showed significant increase of mean earnings (students who are more successful). This goes to show that schools that are good enough to retain and commit their students well enough towards graduation, the better success the students will see after completion. There is also a noticeable student earning decline from 10% to 60% at the 10-year mean earnings metric, but that could be due to other unforseen outliers.
 
 <a name="FacultyFull-timeRateAndEarnings"></a>
 ### Faculty Full-time Rate and Earnings
-![Earnings v faculty rate](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Data-Analysis/master/Project1_college_scorecard/Resources/Plots/Faculty/FacultyRate_vs_MeanEarnings10yrs_scatterplot.png)
-![Earnings v faculty earnings](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Data-Analysis/master/Project1_college_scorecard/Resources/Plots/Faculty/FacultyAvgSalary_vs_MeanEarnings10yrs_scatterplot.png)
+![Earnings v faculty rate](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Analysis/master/Resources/Plots/Faculty/FacultyRate_vs_MeanEarnings10yrs_scatterplot.png)
+![Earnings v faculty earnings](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Analysis/master/Resources/Plots/Faculty/FacultyAvgSalary_vs_MeanEarnings10yrs_scatterplot.png)
 
 Both scatter plots compare school full-time faculty rate and faculty salary against student salary earnings 10 year after college entry. There is no correlation between full-time faculty rate and student earnings, however, there is a noticeably good correlation between faculty salary and student salary. This data shows that no matter how much of a school's faculty is full-time, it does not relate to how much a student will earn. Yet, the more money the faculty makes, the more likely the students will be very successful in earning more after graduation.  Although not shown here, the visualization is very similar for student salary earnings 6 years after college entry.
 
