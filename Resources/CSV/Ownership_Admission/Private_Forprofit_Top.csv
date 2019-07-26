@@ -1,0 +1,56 @@
+School ID,School Name,School State,School Ownership,Admission Rate (%),Mean Earnings (10 Yrs after Entry),Mean Earnings (6 Yrs after Entry)
+443410,DigiPen Institute of Technology,WA,Private ForProfit,53.32,82400.0,60900.0
+445692,Neumont College of Computer Science,UT,Private ForProfit,82.39,75100.0,66400.0
+485272,West Coast University-Miami,FL,Private ForProfit,100.0,67700.0,71900.0
+443331,West Coast University-Los Angeles,CA,Private ForProfit,100.0,67700.0,71900.0
+458210,West Coast University-Orange County,CA,Private ForProfit,88.24,67700.0,71900.0
+458229,West Coast University-Ontario,CA,Private ForProfit,88.0,67700.0,71900.0
+477039,West Coast University-Dallas,TX,Private ForProfit,100.0,67700.0,71900.0
+454236,Chamberlain University-Ohio,OH,Private ForProfit,79.17,60400.0,69800.0
+475741,Chamberlain University-Indiana,IN,Private ForProfit,44.44000000000001,60400.0,69800.0
+460871,Chamberlain University-Virginia,VA,Private ForProfit,44.44000000000001,60400.0,69800.0
+466930,Chamberlain University-Texas,TX,Private ForProfit,66.67,60400.0,69800.0
+457129,Chamberlain University-Florida,FL,Private ForProfit,66.67,60400.0,69800.0
+112394,Cogswell College,CA,Private ForProfit,82.56,60400.0,37600.0
+466921,Chamberlain University-Missouri,MO,Private ForProfit,77.78,60400.0,69800.0
+454227,Chamberlain University-Illinois,IL,Private ForProfit,77.42,60400.0,69800.0
+475732,Chamberlain University-Georgia,GA,Private ForProfit,57.14,60400.0,69800.0
+454245,Chamberlain University-Arizona,AZ,Private ForProfit,80.0,60400.0,69800.0
+104717,Grand Canyon University,AZ,Private ForProfit,56.94000000000001,58500.0,36000.0
+363934,University of Advancing Technology,AZ,Private ForProfit,85.1,57700.0,40500.0
+119775,Newschool of Architecture and Design,CA,Private ForProfit,99.08,55100.0,39200.0
+482422,DeVry University-Arizona,AZ,Private ForProfit,87.72,50300.0,37600.0
+482459,DeVry University-Florida,FL,Private ForProfit,89.29,50300.0,37600.0
+482538,DeVry University-Missouri,MO,Private ForProfit,94.44,50300.0,37600.0
+482608,DeVry University-Pennsylvania,PA,Private ForProfit,89.29,50300.0,37600.0
+482635,DeVry University-Texas,TX,Private ForProfit,88.46000000000002,50300.0,37600.0
+482565,DeVry University-North Carolina,NC,Private ForProfit,80.0,50300.0,37600.0
+482431,DeVry University-California,CA,Private ForProfit,92.61,50300.0,37600.0
+482617,DeVry University-Tennessee,TN,Private ForProfit,66.67,50300.0,37600.0
+482547,DeVry University-Nevada,NV,Private ForProfit,100.0,50300.0,37600.0
+482477,DeVry University-Illinois,IL,Private ForProfit,90.89,50300.0,37600.0
+482556,DeVry University-New Jersey,NJ,Private ForProfit,94.68,50300.0,37600.0
+482486,DeVry University-Indiana,IN,Private ForProfit,100.0,50300.0,37600.0
+482574,DeVry University-Ohio,OH,Private ForProfit,94.74,50300.0,37600.0
+482653,DeVry University-Virginia,VA,Private ForProfit,95.0,50300.0,37600.0
+482440,DeVry University-Colorado,CO,Private ForProfit,94.12,50300.0,37600.0
+482468,DeVry University-Georgia,GA,Private ForProfit,86.49,50300.0,37600.0
+482413,DeVry College of New York,NY,Private ForProfit,95.06,50300.0,37600.0
+192271,LIM College,NY,Private ForProfit,93.46,48900.0,42300.0
+197151,School of Visual Arts,NY,Private ForProfit,74.45,47800.0,34800.0
+398130,Mt Sierra College,CA,Private ForProfit,44.0,47100.0,27800.0
+130183,Post University,CT,Private ForProfit,40.71,46500.0,40000.0
+154518,Waldorf University,IA,Private ForProfit,66.71000000000001,42400.0,32900.0
+140340,Herzing University-Atlanta,GA,Private ForProfit,96.06,41600.0,30100.0
+459851,Herzing University-Brookfield,WI,Private ForProfit,100.0,41600.0,30100.0
+459842,Herzing University-Kenosha,WI,Private ForProfit,100.0,41600.0,30100.0
+191205,Five Towns College,NY,Private ForProfit,61.31999999999999,40100.0,26300.0
+433004,American University of Health Sciences,CA,Private ForProfit,100.0,37800.0,54900.0
+211477,Central Penn College,PA,Private ForProfit,98.55,37700.0,34000.0
+212993,Hussian College School of Art,PA,Private ForProfit,78.57,36800.0,24800.0
+260813,Platt College-Aurora,CO,Private ForProfit,0.0,31900.0,50400.0
+147165,Midstate College,IL,Private ForProfit,75.0,30400.0,31500.0
+368452,Nossi College of Art,TN,Private ForProfit,50.62,29700.0,24400.0
+178767,Stevens-The Institute of Business & Arts,MO,Private ForProfit,33.33,29400.0,26100.0
+458469,National University College-Ponce,PR,Private ForProfit,72.78,20900.0,18600.0
+468723,National University College-Caguas,PR,Private ForProfit,76.81,20900.0,18600.0

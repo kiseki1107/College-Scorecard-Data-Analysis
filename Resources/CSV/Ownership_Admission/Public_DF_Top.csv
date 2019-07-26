@@ -1,0 +1,523 @@
+School ID,School Name,School State,School Ownership,Admission Rate (%),Mean Earnings (10 Yrs after Entry),Mean Earnings (6 Yrs after Entry)
+161299,Maine Maritime Academy,ME,Public,75.51,107200.0,82000.0
+197027,United States Merchant Marine Academy,NY,Public,20.3,98600.0,78600.0
+166692,Massachusetts Maritime Academy,MA,Public,80.47999999999998,96000.0,75200.0
+126775,Colorado School of Mines,CO,Public,40.35,95600.0,74700.0
+111188,California State University Maritime Academy,CA,Public,68.2,87800.0,76700.0
+196291,SUNY Maritime College,NY,Public,58.040000000000006,86200.0,66500.0
+139755,Georgia Institute of Technology-Main Campus,GA,Public,25.77,85900.0,66100.0
+234076,University of Virginia-Main Campus,VA,Public,29.86,79400.0,56800.0
+170976,University of Michigan-Ann Arbor,MI,Public,28.59,79000.0,55900.0
+110635,University of California-Berkeley,CA,Public,16.93,79000.0,57600.0
+231624,College of William and Mary,VA,Public,36.52,74500.0,47400.0
+110422,California Polytechnic State University-San Luis Obispo,CA,Public,29.49,74300.0,54700.0
+228778,The University of Texas at Austin,TX,Public,40.37,73900.0,52200.0
+110662,University of California-Los Angeles,CA,Public,17.990000000000006,73200.0,52000.0
+178411,Missouri University of Science and Technology,MO,Public,79.33,72400.0,57200.0
+126562,University of Colorado Denver/Anschutz Medical Campus,CO,Public,60.52,71200.0,48700.0
+145637,University of Illinois at Urbana-Champaign,IL,Public,60.07,70900.0,52300.0
+163286,University of Maryland-College Park,MD,Public,48.06,70800.0,50100.0
+482149,Augusta University,GA,Public,77.23,70600.0,52300.0
+185828,New Jersey Institute of Technology,NJ,Public,59.3,70300.0,54800.0
+236948,University of Washington-Seattle Campus,WA,Public,45.35,69600.0,50300.0
+110680,University of California-San Diego,CA,Public,35.66,69600.0,48200.0
+377564,University of Washington-Tacoma Campus,WA,Public,83.81,69600.0,50300.0
+377555,University of Washington-Bothell Campus,WA,Public,80.30000000000003,69600.0,50300.0
+199120,University of North Carolina at Chapel Hill,NC,Public,26.94,68800.0,49900.0
+186399,Rutgers University-Newark,NJ,Public,65.31,68100.0,48200.0
+186371,Rutgers University-Camden,NJ,Public,57.49,68100.0,48200.0
+110644,University of California-Davis,CA,Public,42.28,68100.0,45300.0
+196079,Binghamton University,NY,Public,40.62,68100.0,47700.0
+186380,Rutgers University-New Brunswick,NJ,Public,56.94000000000001,68100.0,48200.0
+240444,University of Wisconsin-Madison,WI,Public,52.62,68000.0,49600.0
+228723,Texas A & M University-College Station,TX,Public,67.17,67800.0,53600.0
+233921,Virginia Polytechnic Institute and State University,VA,Public,70.87,67100.0,50400.0
+171128,Michigan Technological University,MI,Public,76.44,66800.0,54000.0
+436827,University of Connecticut-Avery Point,CT,Public,62.4,66000.0,49800.0
+436836,University of Connecticut-Stamford,CT,Public,57.38,66000.0,49800.0
+129020,University of Connecticut,CT,Public,48.8,66000.0,49800.0
+436818,University of Connecticut-Waterbury Campus,CT,Public,58.21,66000.0,49800.0
+110653,University of California-Irvine,CA,Public,40.65,65800.0,44300.0
+484473,University of Florida-Online,FL,Public,64.14999999999999,65700.0,47700.0
+134130,University of Florida,FL,Public,45.94,65700.0,47700.0
+234085,Virginia Military Institute,VA,Public,50.95,65200.0,44300.0
+187134,The College of New Jersey,NJ,Public,48.86,64900.0,49000.0
+130943,University of Delaware,DE,Public,69.5,64000.0,48100.0
+232186,George Mason University,VA,Public,80.99,63900.0,47000.0
+122755,San Jose State University,CA,Public,53.44,63800.0,47200.0
+190512,CUNY Bernard M Baruch College,NY,Public,30.67,63600.0,47500.0
+230764,University of Utah,UT,Public,76.42,63500.0,47200.0
+161873,University of Baltimore,MD,Public,49.42,63400.0,45100.0
+232423,James Madison University,VA,Public,72.13000000000002,63300.0,46100.0
+171100,Michigan State University,MI,Public,65.74,63200.0,45200.0
+196097,Stony Brook University,NY,Public,40.67,62600.0,44000.0
+219347,South Dakota School of Mines and Technology,SD,Public,84.5,62400.0,56400.0
+110705,University of California-Santa Barbara,CA,Public,35.77,62400.0,42800.0
+243780,Purdue University-Main Campus,IN,Public,55.97,62200.0,49000.0
+196088,University at Buffalo,NY,Public,59.38,62100.0,46100.0
+153658,University of Iowa,IA,Public,84.11,62000.0,47700.0
+207500,University of Oklahoma-Norman Campus,OK,Public,70.84,61900.0,48600.0
+229115,Texas Tech University,TX,Public,62.6,61600.0,46800.0
+228787,The University of Texas at Dallas,TX,Public,67.99,61400.0,47800.0
+145600,University of Illinois at Chicago,IL,Public,73.59,61300.0,43100.0
+174066,University of Minnesota-Twin Cities,MN,Public,44.41,61200.0,46000.0
+215275,University of Pittsburgh-Greensburg,PA,Public,74.92999999999998,61200.0,44300.0
+215284,University of Pittsburgh-Johnstown,PA,Public,74.26,61200.0,44300.0
+456959,University of Minnesota-Rochester,MN,Public,66.12,61200.0,46000.0
+215266,University of Pittsburgh-Bradford,PA,Public,52.6,61200.0,44300.0
+215293,University of Pittsburgh-Pittsburgh Campus,PA,Public,55.41,61200.0,44300.0
+225511,University of Houston,TX,Public,58.540000000000006,60600.0,47100.0
+159391,Louisiana State University and Agricultural & Mechanical College,LA,Public,76.39,60100.0,45000.0
+126614,University of Colorado Boulder,CO,Public,76.62,59700.0,42700.0
+217864,Citadel Military College of South Carolina,SC,Public,82.28999999999998,59600.0,44700.0
+163268,University of Maryland-Baltimore County,MD,Public,56.83000000000001,59600.0,42900.0
+199193,North Carolina State University at Raleigh,NC,Public,47.51000000000001,59500.0,45000.0
+155317,University of Kansas,KS,Public,93.01,59300.0,45100.0
+139959,University of Georgia,GA,Public,53.90000000000001,59100.0,45200.0
+216339,Temple University,PA,Public,52.19000000000001,59000.0,42200.0
+217882,Clemson University,SC,Public,50.54,58900.0,48100.0
+187967,New Mexico Institute of Mining and Technology,NM,Public,23.45,58500.0,49000.0
+217484,University of Rhode Island,RI,Public,72.76,58400.0,42500.0
+110574,California State University-East Bay,CA,Public,69.75,58200.0,45200.0
+110529,California State Polytechnic University-Pomona,CA,Public,59.16,58000.0,42900.0
+209506,Oregon Institute of Technology,OR,Public,73.04,57800.0,52900.0
+200280,University of North Dakota,ND,Public,83.69,57800.0,45400.0
+151351,Indiana University-Bloomington,IN,Public,78.72,57800.0,44200.0
+183071,University of New Hampshire at Manchester,NH,Public,69.83,57700.0,44900.0
+166629,University of Massachusetts-Amherst,MA,Public,59.68,57700.0,44200.0
+183044,University of New Hampshire-Main Campus,NH,Public,75.86,57700.0,44900.0
+196060,SUNY at Albany,NY,Public,54.39000000000001,57600.0,41000.0
+214704,Pennsylvania State University-Penn State Berks,PA,Public,87.01,57200.0,43600.0
+214643,Pennsylvania State University-Penn State Wilkes-Barre,PA,Public,82.78999999999998,57200.0,43600.0
+214731,Pennsylvania State University-Penn State Brandywine,PA,Public,82.63000000000002,57200.0,43600.0
+214698,Pennsylvania State University-Penn State Beaver,PA,Public,85.89,57200.0,43600.0
+214829,Pennsylvania State University-Penn State York,PA,Public,83.28,57200.0,43600.0
+214652,Pennsylvania State University-Penn State Worthington Scranton,PA,Public,79.7,57200.0,43600.0
+214777,Pennsylvania State University-Main Campus,PA,Public,56.39999999999999,57200.0,43600.0
+214810,Pennsylvania State University-Penn State Schuylkill,PA,Public,75.59,57200.0,43600.0
+214786,Pennsylvania State University-Penn State Greater Allegheny,PA,Public,85.69,57200.0,43600.0
+214713,Pennsylvania State University-Penn State Harrisburg,PA,Public,84.52,57200.0,43600.0
+214634,Pennsylvania State University-Penn State Shenango,PA,Public,72.22,57200.0,43600.0
+214689,Pennsylvania State University-Penn State Altoona,PA,Public,89.49000000000002,57200.0,43600.0
+214670,Pennsylvania State University-Penn State Lehigh Valley,PA,Public,86.65,57200.0,43600.0
+214801,Pennsylvania State University-Penn State Abington,PA,Public,82.45,57200.0,43600.0
+214591,Pennsylvania State University-Penn State Erie-Behrend College,PA,Public,87.85,57200.0,43600.0
+214625,Pennsylvania State University-Penn State New Kensington,PA,Public,82.57,57200.0,43600.0
+214768,Pennsylvania State University-Penn State Hazleton,PA,Public,81.94,57200.0,43600.0
+479956,Pennsylvania State University-World Campus,PA,Public,57.53,57200.0,43600.0
+178402,University of Missouri-Kansas City,MO,Public,61.87000000000001,57200.0,44400.0
+166513,University of Massachusetts-Lowell,MA,Public,60.57,57200.0,45700.0
+221759,The University of Tennessee-Knoxville,TN,Public,77.22,56700.0,41600.0
+440828,Oregon State University-Cascades Campus,OR,Public,65.84,56700.0,42700.0
+209542,Oregon State University,OR,Public,77.48,56700.0,42700.0
+178396,University of Missouri-Columbia,MO,Public,74.7,56600.0,42700.0
+176017,University of Mississippi,MS,Public,78.3,56600.0,41300.0
+236939,Washington State University,WA,Public,72.04,56600.0,44700.0
+174233,University of Minnesota-Duluth,MN,Public,76.55,56300.0,40900.0
+100858,Auburn University,AL,Public,80.54,56300.0,43100.0
+186201,Ramapo College of New Jersey,NJ,Public,53.26,56300.0,43100.0
+182290,University of Nevada-Reno,NV,Public,82.80999999999997,56300.0,41600.0
+171137,University of Michigan-Dearborn,MI,Public,64.71000000000001,56200.0,41800.0
+232681,University of Mary Washington,VA,Public,74.45,56200.0,40300.0
+153603,Iowa State University,IA,Public,87.49,56000.0,44000.0
+104179,University of Arizona,AZ,Public,78.62,56000.0,41800.0
+122409,San Diego State University,CA,Public,34.64,55900.0,41600.0
+196112,SUNY Polytechnic Institute,NY,Public,64.31,55900.0,45200.0
+196042,Farmingdale State College,NY,Public,58.02,55800.0,44800.0
+483124,Arizona State University-Skysong,AZ,Public,62.06,55500.0,42200.0
+420574,Arizona State University-Polytechnic,AZ,Public,76.09,55500.0,42200.0
+407009,Arizona State University-West,AZ,Public,77.86,55500.0,42200.0
+104151,Arizona State University-Tempe,AZ,Public,82.5,55500.0,42200.0
+200332,North Dakota State University-Main Campus,ND,Public,92.8,55500.0,45200.0
+448886,Arizona State University-Downtown Phoenix,AZ,Public,76.7,55500.0,42200.0
+110538,California State University-Chico,CA,Public,65.25,55400.0,42900.0
+184782,Rowan University,NJ,Public,71.00999999999998,55400.0,39800.0
+204024,Miami University-Oxford,OH,Public,65.38000000000001,55400.0,40800.0
+110671,University of California-Riverside,CA,Public,66.34,55300.0,36800.0
+207388,Oklahoma State University-Main Campus,OK,Public,74.52,55300.0,42600.0
+231174,University of Vermont,VT,Public,68.94,55200.0,40400.0
+163912,St Mary's College of Maryland,MD,Public,79.97,55200.0,38600.0
+164076,Towson University,MD,Public,73.74000000000002,55100.0,41900.0
+122597,San Francisco State University,CA,Public,68.2,54700.0,42100.0
+240727,University of Wyoming,WY,Public,95.08,54200.0,44200.0
+110617,California State University-Sacramento,CA,Public,71.94,54200.0,41800.0
+163851,Salisbury University,MD,Public,65.93,54200.0,40000.0
+228769,The University of Texas at Arlington,TX,Public,69.82000000000001,54000.0,43700.0
+157085,University of Kentucky,KY,Public,90.79,54000.0,43500.0
+134097,Florida State University,FL,Public,58.01,53900.0,39700.0
+218663,University of South Carolina-Columbia,SC,Public,68.14,53900.0,43900.0
+110714,University of California-Santa Cruz,CA,Public,57.85,53800.0,38400.0
+166638,University of Massachusetts-Boston,MA,Public,68.52000000000001,53700.0,42600.0
+204796,Ohio State University-Main Campus,OH,Public,54.11,53600.0,41500.0
+196167,SUNY College at Geneseo,NY,Public,66.85,53400.0,39400.0
+126818,Colorado State University-Fort Collins,CO,Public,77.96,53400.0,39900.0
+123572,Sonoma State University,CA,Public,76.27000000000002,53200.0,41200.0
+110583,California State University-Long Beach,CA,Public,31.89,53000.0,40000.0
+190664,CUNY Queens College,NY,Public,41.34,52900.0,37200.0
+225414,University of Houston-Clear Lake,TX,Public,64.71000000000001,52900.0,45500.0
+206084,University of Toledo,OH,Public,94.32,52800.0,37900.0
+106397,University of Arkansas,AR,Public,63.2,52700.0,40900.0
+181464,University of Nebraska-Lincoln,NE,Public,75.27000000000002,52700.0,39900.0
+238032,West Virginia University,WV,Public,76.12,52700.0,39300.0
+240329,University of Wisconsin-La Crosse,WI,Public,74.24,52500.0,40100.0
+185590,Montclair State University,NJ,Public,66.13,52400.0,38200.0
+168430,Worcester State University,MA,Public,70.56,52400.0,41000.0
+172644,Wayne State University,MI,Public,81.46,52300.0,37900.0
+229018,The University of Texas of the Permian Basin,TX,Public,81.47999999999998,52300.0,44800.0
+180416,Montana Tech of the University of Montana,MT,Public,88.92999999999998,52100.0,48100.0
+100706,University of Alabama in Huntsville,AL,Public,76.28,52000.0,40300.0
+133951,Florida International University,FL,Public,50.07,52000.0,41500.0
+231712,Christopher Newport University,VA,Public,62.16,52000.0,39300.0
+155399,Kansas State University,KS,Public,94.07,51900.0,41400.0
+441937,California State University-Channel Islands,CA,Public,73.83999999999997,51900.0,38100.0
+141574,University of Hawaii at Manoa,HI,Public,84.98,51800.0,39000.0
+190594,CUNY Hunter College,NY,Public,37.88,51800.0,39300.0
+110565,California State University-Fullerton,CA,Public,48.23,51800.0,38500.0
+174020,Metropolitan State University,MN,Public,100.0,51700.0,44600.0
+100751,The University of Alabama,AL,Public,52.59,51600.0,42400.0
+145813,Illinois State University,IL,Public,88.88000000000002,51600.0,41600.0
+128771,Central Connecticut State University,CT,Public,60.01,51600.0,40800.0
+167987,University of Massachusetts-Dartmouth,MA,Public,76.02,51500.0,41100.0
+209551,University of Oregon,OR,Public,77.86999999999998,51300.0,39800.0
+132903,University of Central Florida,FL,Public,49.99,51200.0,39900.0
+240462,University of Wisconsin-Platteville,WI,Public,80.33,51200.0,41300.0
+216764,West Chester University of Pennsylvania,PA,Public,64.48,51200.0,39500.0
+102553,University of Alaska Anchorage,AK,Public,82.85,51200.0,41500.0
+366711,California State University-San Marcos,CA,Public,51.84,51100.0,40500.0
+228459,Texas State University,TX,Public,71.13000000000002,51100.0,40600.0
+190567,CUNY City College,NY,Public,45.39,50900.0,36800.0
+149231,Southern Illinois University-Edwardsville,IL,Public,89.3,50800.0,39600.0
+209807,Portland State University,OR,Public,89.42,50800.0,38400.0
+186876,Stockton University,NJ,Public,76.94,50700.0,37300.0
+151111,Indiana University-Purdue University-Indianapolis,IN,Public,73.97,50700.0,39900.0
+237011,Western Washington University,WA,Public,83.12,50600.0,37400.0
+228802,The University of Texas at Tyler,TX,Public,69.35,50500.0,42900.0
+178615,Truman State University,MO,Public,67.69,50500.0,36000.0
+172699,Western Michigan University,MI,Public,82.31,50500.0,35300.0
+130776,Western Connecticut State University,CT,Public,66.83,50400.0,37800.0
+240268,University of Wisconsin-Eau Claire,WI,Public,78.0,50300.0,40200.0
+199139,University of North Carolina at Charlotte,NC,Public,62.03,50300.0,38600.0
+219356,South Dakota State University,SD,Public,90.76,50200.0,41100.0
+234827,Central Washington University,WA,Public,79.71000000000002,50100.0,38900.0
+110486,California State University-Bakersfield,CA,Public,67.82000000000001,50100.0,39100.0
+190600,CUNY John Jay College of Criminal Justice,NY,Public,33.76,50000.0,33800.0
+148654,University of Illinois at Springfield,IL,Public,65.3,49900.0,38500.0
+110592,California State University-Los Angeles,CA,Public,63.7,49900.0,37200.0
+147703,Northern Illinois University,IL,Public,51.84,49800.0,39400.0
+196103,SUNY College of Environmental Science and Forestry,NY,Public,54.21,49800.0,36000.0
+227881,Sam Houston State University,TX,Public,71.95,49700.0,39300.0
+110608,California State University-Northridge,CA,Public,48.24,49700.0,37400.0
+201885,University of Cincinnati-Main Campus,OH,Public,76.42,49700.0,39600.0
+154095,University of Northern Iowa,IA,Public,82.56,49700.0,39600.0
+234030,Virginia Commonwealth University,VA,Public,81.15,49700.0,37500.0
+182281,University of Nevada-Las Vegas,NV,Public,82.78,49600.0,39300.0
+229027,The University of Texas at San Antonio,TX,Public,76.41,49600.0,38800.0
+169910,Ferris State University,MI,Public,77.69,49600.0,40300.0
+230728,Utah State University,UT,Public,90.25,49600.0,37400.0
+219471,University of South Dakota,SD,Public,88.13,49500.0,37100.0
+149222,Southern Illinois University-Carbondale,IL,Public,76.64999999999998,49500.0,36700.0
+181394,University of Nebraska at Omaha,NE,Public,86.48,49300.0,38600.0
+228705,Texas A & M University-Kingsville,TX,Public,82.34,49300.0,39500.0
+225432,University of Houston-Downtown,TX,Public,82.88,49300.0,42500.0
+200059,Dickinson State University,ND,Public,91.71,49300.0,42300.0
+484905,University of North Texas at Dallas,TX,Public,68.17,49300.0,39300.0
+126580,University of Colorado Colorado Springs,CO,Public,92.86,49300.0,37300.0
+227216,University of North Texas,TX,Public,71.78999999999998,49300.0,39300.0
+178420,University of Missouri-St Louis,MO,Public,70.62,49200.0,38700.0
+196149,SUNY Cortland,NY,Public,52.17,49200.0,38100.0
+136172,University of North Florida,FL,Public,64.53,49200.0,37500.0
+159647,Louisiana Tech University,LA,Public,63.19000000000001,49200.0,38800.0
+229179,Texas Woman's University,TX,Public,85.88,49100.0,42800.0
+174075,University of Minnesota-Crookston,MN,Public,68.17,49100.0,42500.0
+187444,William Paterson University of New Jersey,NJ,Public,75.64,49100.0,37300.0
+129215,Eastern Connecticut State University,CT,Public,57.91,49000.0,36800.0
+165866,Framingham State University,MA,Public,64.81,49000.0,38100.0
+168263,Westfield State University,MA,Public,77.92,48900.0,37500.0
+180461,Montana State University,MT,Public,82.87,48900.0,38000.0
+110510,California State University-San Bernardino,CA,Public,58.14,48800.0,37400.0
+190549,CUNY Brooklyn College,NY,Public,37.49,48800.0,36900.0
+240417,University of Wisconsin-Stout,WI,Public,88.4,48700.0,41000.0
+217819,College of Charleston,SC,Public,84.13000000000002,48700.0,36400.0
+162007,Bowie State University,MD,Public,41.26000000000001,48700.0,34200.0
+196176,State University of New York at New Paltz,NY,Public,42.94,48700.0,36000.0
+232982,Old Dominion University,VA,Public,84.64,48700.0,38300.0
+174783,Saint Cloud State University,MN,Public,85.09,48600.0,38000.0
+224147,Texas A & M University-Corpus Christi,TX,Public,64.64999999999999,48600.0,39100.0
+175272,Winona State University,MN,Public,59.75,48600.0,40000.0
+157289,University of Louisville,KY,Public,72.57000000000002,48600.0,38200.0
+110556,California State University-Fresno,CA,Public,53.54,48500.0,37200.0
+451671,University of South Florida-Sarasota-Manatee,FL,Public,37.8,48500.0,39400.0
+137351,University of South Florida-Main Campus,FL,Public,46.63,48500.0,39400.0
+110495,California State University-Stanislaus,CA,Public,74.33999999999997,48500.0,39300.0
+448840,University of South Florida-St Petersburg,FL,Public,35.67,48500.0,39400.0
+110547,California State University-Dominguez Hills,CA,Public,47.91,48500.0,38300.0
+185262,Kean University,NJ,Public,74.4,48400.0,38000.0
+100663,University of Alabama at Birmingham,AL,Public,58.14,48400.0,39400.0
+173920,Minnesota State University-Mankato,MN,Public,62.49,48400.0,38800.0
+133669,Florida Atlantic University,FL,Public,59.78,48300.0,38800.0
+161253,University of Maine,ME,Public,89.75,48300.0,37400.0
+139940,Georgia State University,GA,Public,58.84,48200.0,38100.0
+216010,Shippensburg University of Pennsylvania,PA,Public,88.31,48200.0,35800.0
+207865,Southwestern Oklahoma State University,OK,Public,90.83,48200.0,39400.0
+240453,University of Wisconsin-Milwaukee,WI,Public,73.29,48200.0,38500.0
+171571,Oakland University,MI,Public,86.35000000000002,48100.0,39700.0
+211158,Bloomsburg University of Pennsylvania,PA,Public,77.56,48100.0,38200.0
+130493,Southern Connecticut State University,CT,Public,63.52,48100.0,38800.0
+233277,Radford University,VA,Public,81.2,48000.0,37700.0
+165024,Bridgewater State University,MA,Public,80.96,47900.0,37500.0
+228529,Tarleton State University,TX,Public,50.39,47700.0,38200.0
+196237,SUNY College at Old Westbury,NY,Public,68.60000000000001,47500.0,37200.0
+190637,CUNY Lehman College,NY,Public,32.48,47500.0,36700.0
+190558,College of Staten Island CUNY,NY,Public,99.16,47500.0,33900.0
+149772,Western Illinois University,IL,Public,59.45,47500.0,37000.0
+165820,Fitchburg State University,MA,Public,74.65,47400.0,37700.0
+176080,Mississippi State University,MS,Public,55.67,47400.0,37100.0
+212115,East Stroudsburg University of Pennsylvania,PA,Public,83.35000000000002,47200.0,35300.0
+170082,Grand Valley State University,MI,Public,81.67999999999998,47200.0,37700.0
+162584,Frostburg State University,MD,Public,62.72,47200.0,33800.0
+127741,University of Northern Colorado,CO,Public,90.27,47100.0,35300.0
+167729,Salem State University,MA,Public,73.58,47100.0,39300.0
+196194,SUNY College at Oswego,NY,Public,54.52,47100.0,35800.0
+226833,Midwestern State University,TX,Public,74.46000000000002,47000.0,42400.0
+142285,University of Idaho,ID,Public,75.89,47000.0,35500.0
+409698,California State University-Monterey Bay,CA,Public,35.24,47000.0,35100.0
+200253,Minot State University,ND,Public,59.81,46900.0,38300.0
+102094,University of South Alabama,AL,Public,80.5,46800.0,35100.0
+196185,SUNY Oneonta,NY,Public,52.84,46700.0,35600.0
+226152,Texas A & M International University,TX,Public,52.98,46700.0,36000.0
+229814,West Texas A & M University,TX,Public,59.97,46700.0,39300.0
+235097,Eastern Washington University,WA,Public,95.48,46700.0,37700.0
+221847,Tennessee Technological University,TN,Public,67.21000000000001,46700.0,35400.0
+199184,University of North Carolina School of the Arts,NC,Public,54.42,46700.0,28100.0
+199218,University of North Carolina Wilmington,NC,Public,71.75,46600.0,36900.0
+160658,University of Louisiana at Lafayette,LA,Public,51.1,46400.0,37200.0
+228431,Stephen F Austin State University,TX,Public,62.45,46400.0,36700.0
+202134,Cleveland State University,OH,Public,87.45,46400.0,37200.0
+159993,University of Louisiana at Monroe,LA,Public,76.13,46300.0,38100.0
+222831,Angelo State University,TX,Public,74.37,46300.0,36100.0
+225502,University of Houston-Victoria,TX,Public,48.09,46200.0,43800.0
+169248,Central Michigan University,MI,Public,71.56,46200.0,37600.0
+196246,SUNY College at Plattsburgh,NY,Public,51.03,46200.0,34800.0
+482680,University of North Georgia,GA,Public,75.03999999999998,46200.0,37300.0
+206613,Wright State University-Lake Campus,OH,Public,98.81,46100.0,34500.0
+139931,Georgia Southern University,GA,Public,64.55,46100.0,36800.0
+206604,Wright State University-Main Campus,OH,Public,95.25,46100.0,34500.0
+214041,Millersville University of Pennsylvania,PA,Public,69.48,46000.0,35600.0
+144892,Eastern Illinois University,IL,Public,46.88,46000.0,35500.0
+185129,New Jersey City University,NJ,Public,85.05,46000.0,37200.0
+226091,Lamar University,TX,Public,76.18,46000.0,37200.0
+183062,Keene State College,NH,Public,82.53,45800.0,36100.0
+198464,East Carolina University,NC,Public,70.34,45800.0,37300.0
+204857,Ohio University-Main Campus,OH,Public,74.85000000000002,45800.0,35900.0
+433660,Florida Gulf Coast University,FL,Public,56.15,45800.0,36500.0
+240189,University of Wisconsin-Whitewater,WI,Public,69.35,45800.0,37500.0
+181215,University of Nebraska at Kearney,NE,Public,85.08,45800.0,36300.0
+240365,University of Wisconsin-Oshkosh,WI,Public,65.02,45600.0,37900.0
+183080,Plymouth State University,NH,Public,78.77,45600.0,35100.0
+196121,SUNY College at Brockport,NY,Public,55.33,45500.0,36200.0
+230603,Southern Utah University,UT,Public,72.28,45500.0,34100.0
+156125,Wichita State University,KS,Public,86.22999999999998,45400.0,38900.0
+190691,CUNY York College,NY,Public,41.01000000000001,45300.0,33600.0
+201441,Bowling Green State University-Main Campus,OH,Public,76.05,45300.0,33500.0
+232566,Longwood University,VA,Public,73.95,45300.0,36200.0
+139861,Georgia College & State University,GA,Public,84.52,45200.0,37500.0
+102614,University of Alaska Fairbanks,AK,Public,73.47,45100.0,36500.0
+159717,McNeese State University,LA,Public,63.7,45000.0,36600.0
+206941,University of Central Oklahoma,OK,Public,75.03,44900.0,36900.0
+174358,Minnesota State University Moorhead,MN,Public,59.61,44900.0,36300.0
+240471,University of Wisconsin-River Falls,WI,Public,72.15,44900.0,36700.0
+211361,California University of Pennsylvania,PA,Public,96.46,44800.0,35100.0
+216038,Slippery Rock University of Pennsylvania,PA,Public,69.49,44800.0,36300.0
+196158,SUNY at Fredonia,NY,Public,62.35000000000001,44700.0,32900.0
+133650,Florida Agricultural and Mechanical University,FL,Public,31.11,44700.0,31800.0
+190655,CUNY New York City College of Technology,NY,Public,74.52,44700.0,32900.0
+105330,Northern Arizona University,AZ,Public,78.03999999999998,44600.0,36900.0
+150136,Ball State University,IN,Public,62.25000000000001,44600.0,35300.0
+152266,Purdue University-North Central Campus,IN,Public,49.92,44600.0,34500.0
+171146,University of Michigan-Flint,MI,Public,65.19,44500.0,36800.0
+218724,Coastal Carolina University,SC,Public,61.18,44500.0,33500.0
+179566,Missouri State University-Springfield,MO,Public,84.38,44500.0,34300.0
+240277,University of Wisconsin-Green Bay,WI,Public,73.13,44500.0,36500.0
+174251,University of Minnesota-Morris,MN,Public,58.06,44400.0,34900.0
+220978,Middle Tennessee State University,TN,Public,68.61,44400.0,33600.0
+155681,Pittsburg State University,KS,Public,87.33999999999997,44400.0,37900.0
+161554,University of Southern Maine,ME,Public,80.25,44400.0,35600.0
+213020,Indiana University of Pennsylvania-Main Campus,PA,Public,91.54,44200.0,33400.0
+127565,Metropolitan State University of Denver,CO,Public,63.87000000000001,44200.0,36100.0
+227368,The University of Texas Rio Grande Valley,TX,Public,63.93,44200.0,34200.0
+208646,Eastern Oregon University,OR,Public,97.03,44100.0,36000.0
+138789,Armstrong State University,GA,Public,80.38,44000.0,36000.0
+173124,Bemidji State University,MN,Public,64.08,44000.0,37000.0
+145336,Governors State University,IL,Public,41.3,44000.0,40300.0
+169798,Eastern Michigan University,MI,Public,72.88,43900.0,35300.0
+187985,University of New Mexico-Main Campus,NM,Public,57.78,43900.0,32600.0
+217420,Rhode Island College,RI,Public,74.69,43900.0,35900.0
+213349,Kutztown University of Pennsylvania,PA,Public,79.77,43900.0,34200.0
+159966,Nicholls State University,LA,Public,82.66,43800.0,37200.0
+233897,The University of Virginia's College at Wise,VA,Public,77.71000000000002,43800.0,30000.0
+178624,Northwest Missouri State University,MO,Public,74.06,43700.0,34000.0
+197869,Appalachian State University,NC,Public,68.32000000000001,43600.0,34300.0
+240480,University of Wisconsin-Stevens Point,WI,Public,81.42,43600.0,34500.0
+159939,University of New Orleans,LA,Public,60.05,43500.0,35200.0
+210146,Southern Oregon University,OR,Public,78.2,43400.0,32100.0
+210429,Western Oregon University,OR,Public,87.76,43400.0,33300.0
+138354,The University of West Florida,FL,Public,40.83,43400.0,33600.0
+128391,Western State Colorado University,CO,Public,91.88,43400.0,32500.0
+213613,Lock Haven University,PA,Public,87.83999999999997,43400.0,34000.0
+180489,The University of Montana,MT,Public,92.43,43300.0,33900.0
+228796,The University of Texas at El Paso,TX,Public,99.99,43300.0,35300.0
+200226,Mayville State University,ND,Public,55.21,43300.0,35700.0
+220862,University of Memphis,TN,Public,56.68,43200.0,35100.0
+219082,Dakota State University,SD,Public,82.63000000000002,43100.0,35400.0
+142115,Boise State University,ID,Public,81.73,43100.0,35600.0
+152248,Purdue University-Calumet Campus,IN,Public,58.68,43000.0,35700.0
+237792,Shepherd University,WV,Public,91.91,43000.0,34400.0
+101879,University of North Alabama,AL,Public,55.74,42800.0,32100.0
+160612,Southeastern Louisiana University,LA,Public,87.3,42800.0,34600.0
+172051,Saginaw Valley State University,MI,Public,75.87,42700.0,35400.0
+176372,University of Southern Mississippi,MS,Public,60.14000000000001,42700.0,33500.0
+155061,Fort Hays State University,KS,Public,90.73,42700.0,36800.0
+163453,Morgan State University,MD,Public,60.3,42600.0,30300.0
+176965,University of Central Missouri,MO,Public,74.62,42600.0,35100.0
+151324,Indiana State University,IN,Public,85.88,42600.0,34400.0
+240374,University of Wisconsin-Parkside,WI,Public,62.46000000000001,42600.0,32900.0
+221740,The University of Tennessee-Chattanooga,TN,Public,78.25999999999998,42600.0,33900.0
+106704,University of Central Arkansas,AR,Public,89.78,42500.0,32600.0
+203517,Kent State University at Kent,OH,Public,85.36,42400.0,33500.0
+157401,Murray State University,KY,Public,85.35000000000002,42300.0,33100.0
+139311,Clayton  State University,GA,Public,40.92,42300.0,35900.0
+127556,Colorado Mesa University,CO,Public,82.75,42300.0,34200.0
+207041,East Central University,OK,Public,57.77,42200.0,33200.0
+196130,SUNY Buffalo State,NY,Public,64.07000000000001,42200.0,33700.0
+170639,Lake Superior State University,MI,Public,90.75,42000.0,33000.0
+224554,Texas A & M University-Commerce,TX,Public,46.14,41900.0,36000.0
+147776,Northeastern Illinois University,IL,Public,71.00999999999998,41900.0,35200.0
+162283,Coppin State University,MD,Public,39.61,41800.0,31700.0
+200800,University of Akron Main Campus,OH,Public,95.92,41800.0,33900.0
+141565,University of Hawaii at Hilo,HI,Public,69.1,41800.0,31700.0
+157447,Northern Kentucky University,KY,Public,91.09,41800.0,35200.0
+151379,Indiana University-Southeast,IN,Public,84.00999999999998,41800.0,32800.0
+207306,Northwestern Oklahoma State University,OK,Public,43.77,41700.0,34600.0
+200572,Valley City State University,ND,Public,98.12,41700.0,37500.0
+237525,Marshall University,WV,Public,89.42999999999998,41700.0,32700.0
+141334,University of West Georgia,GA,Public,59.09,41700.0,33900.0
+128106,Colorado State University-Pueblo,CO,Public,96.38,41600.0,39100.0
+141264,Valdosta State University,GA,Public,65.13,41600.0,33200.0
+175078,Southwest Minnesota State University,MN,Public,54.19000000000001,41400.0,34900.0
+228501,Sul Ross State University,TX,Public,92.22,41400.0,34600.0
+179557,Southeast Missouri State University,MO,Public,82.80999999999997,41400.0,31800.0
+200004,Western Carolina University,NC,Public,40.69,41300.0,33400.0
+218742,University of South Carolina-Upstate,SC,Public,54.63,41300.0,36400.0
+196200,SUNY College at Potsdam,NY,Public,71.78,41300.0,31100.0
+213783,Mansfield University of Pennsylvania,PA,Public,87.52,41300.0,33300.0
+196219,SUNY at Purchase College,NY,Public,43.51,41300.0,31300.0
+141981,University of Hawaii-West Oahu,HI,Public,68.06,41100.0,38300.0
+102368,Troy University,AL,Public,91.25,41100.0,34300.0
+207847,Southeastern Oklahoma State University,OK,Public,77.33,41000.0,34300.0
+207263,Northeastern State University,OK,Public,93.75,41000.0,33500.0
+159416,Louisiana State University-Shreveport,LA,Public,88.57000000000002,41000.0,36000.0
+199148,University of North Carolina at Greensboro,NC,Public,73.92999999999998,40900.0,33100.0
+230834,Castleton University,VT,Public,95.32,40800.0,33800.0
+218645,University of South Carolina-Aiken,SC,Public,66.92,40800.0,34200.0
+166674,Massachusetts College of Art and Design,MA,Public,70.87,40700.0,31200.0
+227526,Prairie View A & M University,TX,Public,85.48,40700.0,34300.0
+220075,East Tennessee State University,TN,Public,91.64,40600.0,32700.0
+211644,Clarion University of Pennsylvania,PA,Public,94.14,40600.0,33200.0
+219046,Black Hills State University,SD,Public,79.75999999999998,40500.0,31300.0
+151333,Indiana University-Kokomo,IN,Public,69.13,40500.0,34300.0
+151360,Indiana University-Northwest,IN,Public,75.8,40400.0,33500.0
+163338,University of Maryland Eastern Shore,MD,Public,38.39,40400.0,29100.0
+107071,Henderson State University,AR,Public,66.11,40400.0,29300.0
+218654,University of South Carolina-Beaufort,SC,Public,65.13,40400.0,33800.0
+101587,University of West Alabama,AL,Public,53.1,40400.0,29700.0
+180522,Montana State University-Northern,MT,Public,100.0,40400.0,37100.0
+155025,Emporia State University,KS,Public,87.42999999999998,40300.0,33000.0
+188030,New Mexico State University-Main Campus,NM,Public,59.61,40300.0,29700.0
+151306,University of Southern Indiana,IN,Public,91.89,40200.0,32900.0
+206695,Youngstown State University,OH,Public,67.45,40200.0,32200.0
+115755,Humboldt State University,CA,Public,77.09,40100.0,30200.0
+139764,Georgia Southwestern State University,GA,Public,68.17999999999999,40100.0,32900.0
+221768,The University of Tennessee-Martin,TN,Public,66.7,40100.0,30800.0
+171456,Northern Michigan University,MI,Public,75.87,39800.0,32000.0
+218964,Winthrop University,SC,Public,68.5,39800.0,31300.0
+151102,Indiana University-Purdue University-Fort Wayne,IN,Public,93.26,39800.0,33100.0
+240426,University of Wisconsin-Superior,WI,Public,76.11,39800.0,33200.0
+160621,Southern University and A & M College,LA,Public,98.79,39600.0,30800.0
+160038,Northwestern State University of Louisiana,LA,Public,61.8,39600.0,35700.0
+106245,University of Arkansas at Little Rock,AR,Public,89.83,39500.0,34600.0
+196033,SUNY College of Agriculture and Technology at Cobleskill,NY,Public,78.18,39500.0,29700.0
+237932,West Liberty University,WV,Public,71.7,39500.0,30600.0
+127185,Fort Lewis College,CO,Public,92.12,39400.0,30500.0
+190646,CUNY Medgar Evers College,NY,Public,98.41,39400.0,30000.0
+156620,Eastern Kentucky University,KY,Public,86.33,39300.0,32700.0
+199102,North Carolina A & T State University,NC,Public,53.64,39300.0,31700.0
+224545,Texas A&M University-Texarkana,TX,Public,55.99,39200.0,34800.0
+107983,Southern Arkansas University Main Campus,AR,Public,69.13,39000.0,30400.0
+176035,Mississippi University for Women,MS,Public,98.8,38900.0,33100.0
+219602,Austin Peay State University,TN,Public,88.86,38800.0,31400.0
+232937,Norfolk State University,VA,Public,85.49,38800.0,30000.0
+139366,Columbus State University,GA,Public,53.16,38800.0,31100.0
+199111,University of North Carolina at Asheville,NC,Public,75.92999999999998,38800.0,30000.0
+106467,Arkansas Tech University,AR,Public,63.91,38600.0,31600.0
+157951,Western Kentucky University,KY,Public,94.02,38600.0,30800.0
+130934,Delaware State University,DE,Public,40.65,38400.0,30100.0
+237367,Fairmont State University,WV,Public,64.96,38400.0,30500.0
+234155,Virginia State University,VA,Public,94.48,38400.0,29000.0
+237385,Glenville State College,WV,Public,69.45,38400.0,27900.0
+167288,Massachusetts College of Liberal Arts,MA,Public,77.10000000000002,38300.0,30100.0
+144005,Chicago State University,IL,Public,57.88,38200.0,32200.0
+142328,Lewis-Clark State College,ID,Public,97.15,38200.0,33700.0
+212160,Edinboro University of Pennsylvania,PA,Public,95.28,38100.0,29000.0
+178341,Missouri Southern State University,MO,Public,94.34,38100.0,31300.0
+151342,Indiana University-South Bend,IN,Public,77.03,38100.0,31600.0
+101480,Jacksonville State University,AL,Public,53.08000000000001,38100.0,31800.0
+126182,Adams State University,CO,Public,98.57,38100.0,28800.0
+218229,Lander University,SC,Public,61.75000000000001,38100.0,31400.0
+100830,Auburn University at Montgomery,AL,Public,76.59,38000.0,32100.0
+161235,University of Maine at Fort Kent,ME,Public,81.5,37700.0,36000.0
+229063,Texas Southern University,TX,Public,51.49,37600.0,30300.0
+175616,Delta State University,MS,Public,89.41,37600.0,32400.0
+205443,Shawnee State University,OH,Public,73.57000000000002,37500.0,28600.0
+161226,University of Maine at Farmington,ME,Public,80.43,37500.0,27700.0
+219259,Northern State University,SD,Public,81.39,37300.0,33400.0
+199999,Winston-Salem State University,NC,Public,63.26000000000001,37200.0,31600.0
+157386,Morehead State University,KY,Public,85.56,37000.0,30000.0
+235167,The Evergreen State College,WA,Public,97.48,36900.0,28400.0
+218061,Francis Marion University,SC,Public,61.56,36900.0,32100.0
+106458,Arkansas State University-Main Campus,AR,Public,70.39999999999998,36600.0,30900.0
+207722,University of Science and Arts of Oklahoma,OK,Public,48.85,36400.0,30400.0
+199281,University of North Carolina at Pembroke,NC,Public,73.56,36400.0,28900.0
+159382,Louisiana State University-Alexandria,LA,Public,33.32,36300.0,33000.0
+213598,Lincoln University,PA,Public,87.14,36200.0,26900.0
+101709,University of Montevallo,AL,Public,65.42,36100.0,28000.0
+230931,Lyndon State College,VT,Public,98.34,35900.0,30200.0
+237330,Concord University,WV,Public,81.15,35700.0,28900.0
+230913,Johnson State College,VT,Public,95.09,35600.0,28500.0
+100654,Alabama A & M University,AL,Public,87.38,35500.0,28400.0
+243665,University of the Virgin Islands,VI,Public,91.95,35500.0,27000.0
+199157,North Carolina Central University,NC,Public,66.69,35300.0,28700.0
+161341,University of Maine at Presque Isle,ME,Public,86.72,35300.0,27600.0
+482158,Middle Georgia State University,GA,Public,70.66,35000.0,29400.0
+140960,Savannah State University,GA,Public,50.78,35000.0,26200.0
+175342,Alcorn State University,MS,Public,78.44,35000.0,26900.0
+151388,Indiana University-East,IN,Public,60.28,34800.0,32400.0
+187648,Eastern New Mexico University-Main Campus,NM,Public,57.31,34800.0,29200.0
+139719,Fort Valley State University,GA,Public,26.450000000000006,34700.0,25500.0
+138716,Albany State University,GA,Public,49.67,34600.0,27100.0
+198543,Fayetteville State University,NC,Public,59.27,34600.0,27500.0
+237899,West Virginia State University,WV,Public,96.27,33800.0,28700.0
+175856,Jackson State University,MS,Public,63.32,33700.0,27800.0
+159009,Grambling State University,LA,Public,45.14,32800.0,26200.0
+218733,South Carolina State University,SC,Public,86.22999999999998,32500.0,25000.0
+198507,Elizabeth City State University,NC,Public,57.15,32200.0,25100.0
+160630,Southern University at New Orleans,LA,Public,11.54,32100.0,26800.0
+237215,Bluefield State College,WV,Public,83.31,31900.0,29600.0
+157058,Kentucky State University,KY,Public,49.0,31300.0,25600.0
+100724,Alabama State University,AL,Public,45.9,30600.0,24400.0
+106412,University of Arkansas at Pine Bluff,AR,Public,41.93,30600.0,23900.0
+201690,Central State University,OH,Public,42.01,28600.0,23000.0
+241720,Colegio Universitario de San Juan,PR,Public,95.51,28100.0,22400.0
+176044,Mississippi Valley State University,MS,Public,84.45,27200.0,22500.0
+241766,Puerto Rico Conservatory of Music,PR,Public,70.91,22100.0,19000.0
+241951,Escuela de Artes Plasticas y Diseno de Puerto Rico,PR,Public,83.52000000000002,20600.0,13300.0
+187745,Institute of American Indian and Alaska Native Culture and Arts Development,NM,Public,100.0,18000.0,17800.0
