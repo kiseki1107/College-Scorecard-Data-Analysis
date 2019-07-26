@@ -1,4 +1,5 @@
 # College Scorecard Data Analysis
+![Title Image](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Analysis/master/Resources/Images/College_Scorecard_Title.png)
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Methods](#Methods)
