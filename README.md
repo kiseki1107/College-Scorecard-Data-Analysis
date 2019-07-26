@@ -20,7 +20,7 @@ What college factors will provide students with success after graduation? Provid
 
 <a name="Methods"></a>
 ### Methods
-* Web API
+* Web API (via the College Scorecard API link [here](https://collegescorecard.ed.gov/data/documentation/))
 * Data Cleaning
 * Data Analysis
 * Data Visualization
@@ -32,7 +32,6 @@ What college factors will provide students with success after graduation? Provid
 <a name="Dependencies"></a>
 ### Dependencies 
 The following python libraries are used in this project:
-
 ```python
 # For general python dataFrame manipulation, aggregations, and plots.
 import pandas as pd
@@ -60,7 +59,6 @@ Under the "Categories of Data" title in the API documentation page, this section
 4. students earnings - mean salary earnings 6 and 10 years after entering school (this means 2-6 years minimum after graduating)
 
 To start off, the base url for the college scorecard lives at http://api.data.gov/ed/collegescorecard/ (which is inaccessible without an API key). The remaining query url are from the parameters and metrics defined as above. Once again, for the scope of this project, the school parameters were defined as "currently operating", "bachelor-granting", and at least "4-year". In order to API call the remaining field metrics, a dictionary was created to hold the key column names and metric values. Below is a snippet of the data collection coding:
-
 ```python
 # Accessing the college scorecard API.
 # The endpoint for querying all data is /v1/schools
