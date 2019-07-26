@@ -22,8 +22,10 @@ What college factors will provide students with success after graduation? Provid
 ### Methods
 * Web API (via the College Scorecard API link [here](https://collegescorecard.ed.gov/data/documentation/))
 * Data Cleaning
+* Data Manipulation
 * Data Analysis
 * Data Visualization
+* ETL
 
 <a name="Technologies"></a>
 ### Technologies
