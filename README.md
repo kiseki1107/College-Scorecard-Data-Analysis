@@ -57,10 +57,10 @@ import shutil
 The actual open-source data can be found on the Department of Education's API documentation page [here](https://collegescorecard.ed.gov/data/documentation/) where users and developers alike can register for their own API key [here](https://api.data.gov/signup/). The API documentation page provides a step-by-step guide on how to manipulate their Web API link format as well as a data dictionary reference in the form of an excel spreadsheet.
 
 Under the "Categories of Data" title in the API documentation page, this section lists all of the fields within the dataset. To look at what makes a good school good, the metrics chosen for this project are:
-1. the school - the school's name and ownership (public/ private non-profit/ private for-profit), and its faculties
-2. the students - student's school retention and completion rates
-3. entry difficulty - how hard it is to get admitted into a school, especially via SAT scores
-4. students earnings - mean salary earnings 6 and 10 years after entering school (this means 2-6 years minimum after graduating)
+1. The school - the school's name and ownership (public/ private non-profit/ private for-profit), and its faculties
+2. The students - student's school retention and completion rates
+3. Entry difficulty - how hard it is to get admitted into a school, especially via SAT scores
+4. Students earnings - mean salary earnings 6 and 10 years after entering school (this means 2-6 years minimum after graduating)
 
 To start off, the base url for the college scorecard lives at http://api.data.gov/ed/collegescorecard/ (which is inaccessible without an API key). The remaining query url are from the parameters and metrics defined as above. Once again, for the scope of this project, the school parameters were defined as "currently operating", "bachelor-granting", and at least "4-year". In order to API call the remaining field metrics, a dictionary was created to hold the key column names and metric values. Below is a snippet of the data collection coding:
 ```python
