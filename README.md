@@ -56,7 +56,7 @@ import shutil
 
 The actual open-source data can be found on the Department of Education's API documentation page [here](https://collegescorecard.ed.gov/data/documentation/) where users and developers alike can register for their own API key [here](https://api.data.gov/signup/). The API documentation page provides a step-by-step guide on how to manipulate their Web API link format as well as a data dictionary reference in the form of an excel spreadsheet.
 
-Under the "Categories of Data" title in the API documentation page, this section lists all of the fields within the dataset. To look at what makes a good school good, the metrics chosen for this project are:
+Under the "Categories of Data" title in the API documentation page, this section lists all of the fields within the dataset. To look at what makes a student successful, the metrics chosen for this project are:
 1. The school - the school's name and ownership (public/ private non-profit/ private for-profit), and its faculties
 2. The students - student's school retention and completion rates
 3. Entry difficulty - how hard it is to get admitted into a school, especially via SAT scores
