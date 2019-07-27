@@ -52,7 +52,7 @@ import shutil
 
 <a name="DataCollection"></a>
 ## Data Collection
-[Click here for link to code.](https://github.com/kiseki1107/College-Scorecard-Analysis/blob/master/DataCollection_Cleansing.ipynb)
+[Click here](https://github.com/kiseki1107/College-Scorecard-Analysis/blob/master/DataCollection_Cleansing.ipynb) for code reference.
 
 The actual open-source data can be found on the Department of Education's API documentation page [here](https://collegescorecard.ed.gov/data/documentation/) where users and developers alike can register for their own API key [here](https://api.data.gov/signup/). The API documentation page provides a step-by-step guide on how to manipulate their Web API link format as well as a data dictionary reference in the form of an excel spreadsheet.
 
@@ -86,7 +86,7 @@ It is important to note that the requested API call will return a JSON format ur
 
 <a name="DataCleaning"></a>
 ## Data Cleaning
-[Click here for link to code.](https://github.com/kiseki1107/College-Scorecard-Analysis/blob/master/DataCollection_Cleansing.ipynb)
+[Click here](https://github.com/kiseki1107/College-Scorecard-Analysis/blob/master/DataCollection_Cleansing.ipynb) for code reference.
 
 After collecting all the necessary data into a master python dataFrame, further data cleaning was performed to update and format the dataFrame to be easily accessible and user-friendly.
 
@@ -123,7 +123,7 @@ admission_min = clean_school_ownership_df["Admission Rate (%)"].min()
 
 <a name="DataVisualization"></a>
 ## Data Visualization  and Conclusion
-[Click her for link to code.](https://github.com/kiseki1107/College-Scorecard-Analysis/blob/master/DataAnalyzation.ipynb)
+[Click here](https://github.com/kiseki1107/College-Scorecard-Analysis/blob/master/DataAnalyzation.ipynb) for code reference.
 <a name="SchoolOwnershipAndAdmissionRates"></a>
 ### School Ownership and Admission Rates
 ![School ownership pie](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Analysis/master/Resources/Plots/Ownership_Admission/SchoolOwnership_Counts_Pie.png)
