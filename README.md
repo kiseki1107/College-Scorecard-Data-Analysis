@@ -132,7 +132,7 @@ Count of all existing, 4-year, bachelor-granting (undergraduate) schools by scho
 
 ![Earnings v school ownership box](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Analysis/master/Resources/Plots/Ownership_Admission/SchoolOwnership_MeanEarnings_Comparison_Box.png)
 
-Private for-profit schools have a left-skewed distribution (higher concentration of schools from 50-75% of interquartile range (IQR or range of the box)). There are more students earning more than students earning less, but there is a noticeable equilibration of student earnings at 10 years after entry. From 6 years to 10 years after entry, the box-and-whiskers then to go towards similar ranges and distributions.
+Private for-profit schools have a right-skewed distribution (higher concentration of schools from 50-75% of interquartile range (IQR or range of the box)). There are more students earning more than students earning less, but there is a noticeable equilibration of student earnings at 10 years after entry. From 6 years to 10 years after entry, the box-and-whiskers then to go towards similar ranges and distributions.
 
 ![Admission bar](https://raw.githubusercontent.com/kiseki1107/College-Scorecard-Analysis/master/Resources/Plots/Ownership_Admission/Admission_MeanEarnings_Comparison_Bar.png)
 
